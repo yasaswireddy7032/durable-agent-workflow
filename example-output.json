@@ -1,0 +1,21 @@
+{
+  "first": {
+    "state": "completed",
+    "result": {
+      "count": 2,
+      "digest": "82d39cab375029f24b7406b3c56a8c9c8b19e6daed2b6ef09ac036583c03e333"
+    }
+  },
+  "replay": {
+    "state": "completed",
+    "result": {
+      "count": 2,
+      "digest": "82d39cab375029f24b7406b3c56a8c9c8b19e6daed2b6ef09ac036583c03e333"
+    }
+  },
+  "audit": [
+    "submitted",
+    "approved",
+    "completed"
+  ]
+}
